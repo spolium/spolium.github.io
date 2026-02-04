@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme on Yannick Nepomuk Fritz</title>
+    <link>http://localhost:1313/tags/theme/</link>
+    <description>Recent content in Theme on Yannick Nepomuk Fritz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yannick Nepomuk Fritz</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/</guid>
+      <description>&lt;p&gt;I am a PhD Candidate at the University of Basel in the NOMIS project  &lt;a href=&#34;https://nomisfoundation.ch/projects/assisted-thinking-a-deep-history-of-scholarly-ai/&#34;&gt;«Assisted Thinking: A Deep History of Scholarly AI»&lt;/a&gt; where I work on a PhD project on Prompting with AI Models. I completed my M.A. in media philosophy and art research at Karlsruhe University of Arts and Design (HfG Karlsruhe) with a thesis on the political epistemology of generativity pertaining to artificial intelligence. Previously, I studied media and cultural studies in Vienna, Potsdam and Hong Kong.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+/* You can add custom style here */
+ :root {
+
+  --bg-h: 0;
+  --bg-s: 10%;
+  --bg-l: 97%;
+} 
+
+
+.eb-garamond-classname {
+  font-family: "Cormorant Garamond", Garamond, Baskerville, serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
