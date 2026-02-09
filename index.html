@@ -63,7 +63,7 @@
   
   <li class="current">
     
-    <a href="/">Yannick Nepomuk Fritz</a>
+    <a href="/" class="no-new-tab">Yannick Nepomuk Fritz</a>
     
   </li>
 
@@ -97,7 +97,7 @@
 
   
   <script>
-      document.querySelectorAll('a').forEach(link => {
+      document.body.querySelectorAll('a:not(.no-new-tab)').forEach(link => {
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       });
